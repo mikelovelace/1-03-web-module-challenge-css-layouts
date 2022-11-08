@@ -39,7 +39,8 @@ header h1 {
 header nav a {
   width: 25rem;
   padding: 2rem;
-  background: red;
+  background: black;
+  color: white;
   text-decoration: none;
 }
 
@@ -57,7 +58,7 @@ header nav a:nth-of-type(4) {
 
 
 main {
-  background: orange;
+  background: white
 }
 
 main div {
@@ -67,7 +68,6 @@ main div {
 main div .hero {
   display: flex;
   width: 70%;
-  background: pink;
   padding: 3rem;
 }
 
@@ -106,7 +106,6 @@ main .projects {
   display: flex;
   flex-wrap: wrap;
   width: 70%;
-  background: pink;
   padding: 3rem 0;
 }
 
@@ -138,7 +137,8 @@ footer div h2 {
 footer div a {
   width: 25rem;
   padding: 2rem;
-  background: red;
+  background: black;
+  color: white;
   text-decoration: none;
   border-radius: 5px;
 }
